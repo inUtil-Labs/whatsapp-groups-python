@@ -66,6 +66,8 @@ To run the script, you will need to get a valid api key to run this API: https:/
 
 ## Example Usage
 
+Check out this video tutorial for a step-by-step guide: 
+
 [![Watch the video](https://img.youtube.com/vi/4Sa5tfj7jBY/maxresdefault.jpg)](https://www.youtube.com/watch?v=4Sa5tfj7jBY)
 
 
