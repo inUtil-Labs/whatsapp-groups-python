@@ -66,6 +66,9 @@ To run the script, you will need to get a valid api key to run this API: https:/
 
 ## Example Usage
 
+[![Watch the video](https://img.youtube.com/vi/4Sa5tfj7jBY/maxresdefault.jpg)](https://www.youtube.com/watch?v=4Sa5tfj7jBY)
+
+
 Here's an example of how to run the script:
 
 ```bash
